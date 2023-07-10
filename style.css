@@ -103,3 +103,25 @@ p{
     text-decoration: underline;
 }
 /* ----Featured section CSS End here.---- */
+
+
+/* ----Support team section CSS start from here.---- */
+.support-team-container {
+    width: 1200px;
+    margin: 50px auto;
+    background-color: rgba(39, 39, 39, 0.05);
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    padding: 60px 0px;
+    border-radius: 5px;
+}
+.support-team-container p{
+    color: rgba(39, 39, 39, 0.80);
+    margin-top: 15px;
+    font-weight: 600;
+}
+
+/* ----Support team section CSS End here.---- */

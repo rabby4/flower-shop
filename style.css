@@ -36,6 +36,7 @@ p{
     margin: 25px 0px;
 }
 .btn {
+    font-size: 16px;
     background: #E55473;
     color: #fff;
     padding: 15px 30px;
@@ -125,3 +126,30 @@ p{
 }
 
 /* ----Support team section CSS End here.---- */
+
+/* ----Discount section CSS start from here.---- */
+
+.discount {
+    background-color: rgba(229, 84, 115, 0.05);
+    margin: 100px 0px;
+    padding: 100px 0px;
+}
+.discount-container{
+    width: 1200px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    text-align: center;
+}
+.discount-content {
+    width: 580px;
+}
+.discount-title {
+    font-size: 35px;
+    font-weight: 800;
+}
+.discount-content p {
+    margin: 20px 0px;
+}
+/* ----Discount  section CSS End here.---- */

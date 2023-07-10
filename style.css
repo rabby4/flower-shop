@@ -236,8 +236,9 @@ p{
     background-size: cover;
     width: 1200px;
     margin: 80px auto;
-    padding: 85px 0px;
+    padding: 90px 0px;
     text-align: center;
+    border-radius: 7px;
 }
 .subs-title{
     font-size: 35px;
@@ -276,7 +277,7 @@ footer{
     margin: 15px 0px;
 }
 .copyright {
-    color: #ffffff40;
+    color: #ffffff52;
     font-size: 14px;
 }
 /* ----Footer  CSS End here.---- */

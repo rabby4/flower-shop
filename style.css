@@ -45,9 +45,58 @@ p{
 }
 .banner-flower img{
     width: 540px;
+    margin-bottom: -3px;
 }
 /* ----Banner section CSS End here.---- */
 
+/* ----Service section CSS start from here.---- */
+
+.service-container{
+    width: 1200px;
+    display: flex;
+    column-gap: 30px;
+    margin: 100px auto;
+    margin-bottom: 0px;
+}
+.on-sale, .services{
+    width: 50%;
+    padding: 30px 80px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.on-sale{
+    background-image: url('Images/h1-img-1.jpg');
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.services{
+    background-image: url(Images/h1-img-2.jpg);
+}
+.on-sale h1{
+    color: #E55473;
+    font-size: 40px;
+}
+.on-sale p {
+    color: #272727;
+    font-style: italic;
+    font-size: 17px;
+}
+.services ul {
+    list-style: none;
+}
+.services ul li {
+    display: flex;
+    align-items: center;
+    font-size: 20px;
+    font-weight: 400;
+    font-style: italic;
+    margin: 20px 0px;
+}
+.services ul li img {
+    margin-right: 20px;
+}
+/* ----Banner section CSS End here.---- */
 
 /* ----Featured section CSS start from here.---- */
 .feature-container{

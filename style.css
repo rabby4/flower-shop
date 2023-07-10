@@ -153,3 +153,27 @@ p{
     margin: 20px 0px;
 }
 /* ----Discount  section CSS End here.---- */
+
+/* ----Instagram section CSS start from here.---- */
+
+.insta-container{
+    width: 1200px;
+    margin: auto;
+    text-align: center;
+    padding: 50px 0px;
+}
+.insta-title{
+    font-size: 35px;
+}
+.insta-description{
+    width: 520px;
+    margin: 20px auto;
+}
+.insta-images {
+    margin-top: 65px;
+}
+.insta-images img {
+    width: 24%;
+    margin: 0px 4px;
+}
+/* ----Instagram  section CSS End here.---- */
